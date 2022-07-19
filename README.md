@@ -1,4 +1,4 @@
-# Payment-Gateway-Integration_TSFoundation
+# Task #3 Payment Gateway Integration 
 Payment Gateway Integration
 
 
@@ -13,9 +13,9 @@ for the payment received. The invoice will contain the amount. 🎱🎱
 
 <!----------------------------------------------->
 
-The website hosted at 000webhost 👍👍👍 
+The website hosted at github 👍👍👍 
 
-    https://donation-bhavjot.000webhostapp.com/
+    https://zaki-essay.github.io/task-3-sparks/
     
 The Working Video is also available on Youtube 👍👍👍 
     
